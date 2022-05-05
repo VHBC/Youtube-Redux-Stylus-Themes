@@ -1,4 +1,6 @@
 # Youtube-Redux-Stylus-Themes
+REMINDER. THESE RELY HEAVILY ON HAVING YOUTUBE REDUX INSTALLED.. THEY WILL PROBABLY LOOK REALLY ASS WITHOUT IT.
+
 My themes for youtube redux (stylus)
 (these are super buggy and not very good.) 
 (things like the 2011 video player thing are other peoples projects mixed together, they were super broken so I fixed em)
