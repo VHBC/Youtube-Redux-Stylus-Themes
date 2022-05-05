@@ -1,0 +1,85 @@
+#container.ytd-masthead {
+
+background: linear-gradient(180deg, rgb(208, 208, 208) 0%, rgba(233,233,233,1) 50%, rgb(236, 236, 236) 100%);
+}
+
+#columns.ytd-watch-flexy {
+    margin: 0 auto;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -ms-flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+background: linear-gradient(180deg, rgba(232,232,232,1) 0%, rgba(207,207,207,1) 50%, rgb(187, 187, 187) 100%);
+}
+
+
+ytd-app:not([use-content-visibility]) #page-manager.ytd-app {
+
+background: linear-gradient(180deg, rgba(232,232,232,1) 0%, rgba(207,207,207,1) 50%, rgb(187, 187, 187) 100%);
+}
+
+
+
+#voice-search-button.ytd-masthead {
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    background-color: transparent;
+    margin-left: 4px;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+/*
+.title.ytd-guide-entry-renderer {
+    color: #cecece; 
+}
+    #sections.ytd-guide-renderer {
+    position: relative;
+    background: linear-gradient(180deg, rgba(32,32,32,1) 0%, rgba(28,28,28,1) 41%, rgba(15,15,15,1) 94%);
+}
+
+
+ytd-guide-entry-renderer {
+    background: linear-gradient(180deg, rgba(32,32,32,1) 0%, rgba(28,28,28,1) 41%, rgba(15,15,15,1) 94%);
+    border-radius: 4px;
+    border-style: solid;
+        border-color: #141414;
+
+}
+#redux-mychannel {
+    background: linear-gradient(180deg, rgba(32,32,32,1) 0%, rgba(28,28,28,1) 41%, rgba(15,15,15,1) 94%);
+    border-radius: 4px;
+    border-style: solid;
+    border-color: #141414;
+
+
+}
+
+ytd-guide-entry-renderer[active] {
+    background: linear-gradient(180deg, rgba(130,157,255,1) 0%, rgba(0,41,182,1) 41%, rgba(0,24,101,1) 94%) !important;
+    border-radius: 4px;
+    padding: 1px 1px;
+    margin-top: 12px;
+    margin-bottom: 20px;
+    border-style: solid;
+        border-color: #141414;
+
+}
+*/
+
+    #sections.ytd-guide-renderer {
+    position: relative;
+background: linear-gradient(180deg, rgb(242, 242, 242) 0%, rgba(207,207,207,1) 50%, rgb(187, 187, 187) 100%);
+        border-width: 1px;
+        border-style: solid;
+}
+
